@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982342583549907836/e0ffa3dea32d42c59802595674bf5f63/artifacts
+end_time: 1698315465319
+entry_point_name: ''
+experiment_id: '982342583549907836'
+lifecycle_stage: active
+run_id: e0ffa3dea32d42c59802595674bf5f63
+run_name: First_Hello_world
+run_uuid: e0ffa3dea32d42c59802595674bf5f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698315464647
+status: 3
+tags: []
+user_id: jovyan
